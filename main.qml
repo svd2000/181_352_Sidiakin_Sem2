@@ -148,6 +148,10 @@ ApplicationWindow {
 //                       Layout.rowSpan: 1
                         Layout.row: 1
                         Layout.column: 0
+                        text: qsTr("HB4F")
+
+                        ToolTip.visible: pressed
+                        onClicked: a1.visible = false
 
 
                    }
@@ -160,6 +164,10 @@ ApplicationWindow {
 //                        Layout.rowSpan: 1
                         Layout.row: 1
                         Layout.column: 1
+                        text: qsTr("GT1A")
+
+                        ToolTip.visible: pressed
+                        onClicked: a2.visible = false
                    }
                      Button {
                         //color: "red"
@@ -170,6 +178,9 @@ ApplicationWindow {
 //                        Layout.rowSpan: 1
                         Layout.row: 1
                         Layout.column: 2
+                        text: qsTr("QW3R")
+                        ToolTip.visible: pressed
+                        onClicked: a3.visible = false
                    }
                    Button {
                         //color: "red"
@@ -180,6 +191,10 @@ ApplicationWindow {
 //                        Layout.rowSpan: 1
                         Layout.row: 2
                         Layout.column: 0
+                        text: qsTr("LK7U")
+
+                        ToolTip.visible: pressed
+                        onClicked: a4.visible = false
                    }
                      Button {
                         //color: "red"
@@ -190,6 +205,10 @@ ApplicationWindow {
 //                        Layout.rowSpan: 1
                         Layout.row: 2
                         Layout.column: 1
+                        text: qsTr("HYT5")
+
+                        ToolTip.visible: pressed
+                        onClicked: a5.visible = false
                    }
                      Button {
                        // color: "red"
@@ -200,6 +219,10 @@ ApplicationWindow {
 //                        Layout.rowSpan: 1
                         Layout.row: 2
                         Layout.column: 2
+                        text: qsTr("CVRE")
+
+                        ToolTip.visible: pressed
+                        onClicked: a6.visible = false
                    }
                      Button {
                        // color: "red"
@@ -210,6 +233,10 @@ ApplicationWindow {
 //                        Layout.rowSpan: 1
                         Layout.row: 3
                         Layout.column: 0
+                        text: qsTr("PHA3")
+
+                        ToolTip.visible: pressed
+                        onClicked: a7.visible = false
                    }
                      Button {
                         //color: "red"
@@ -220,16 +247,22 @@ ApplicationWindow {
 //                        Layout.rowSpan: 1
                         Layout.row: 3
                         Layout.column: 1
+                        text: qsTr("ZPQ0")
+
+                        ToolTip.visible: pressed
+                        onClicked: a8.visible = false
                    }
                      Button {
                        // color: "red"
                           id:a9
+
                         Layout.fillHeight: true
                         Layout.fillWidth: true
-//                        Layout.columnSpan: 2
-//                        Layout.rowSpan: 1
-                        Layout.row: 3
-                        Layout.column: 2
+//
+                        text: qsTr("ADG2")
+
+                        ToolTip.visible: pressed
+                        onClicked: a9.visible = false
                    }
 
 
