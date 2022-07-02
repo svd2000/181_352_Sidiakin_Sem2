@@ -1,0 +1,21 @@
+{
+    "sites": [
+        {
+            "site": "mospolytech.ru",
+            "login": "exoWkOB+/A==",
+            "password": "WTs30KQ3ufj4DydI9VFpLCw="
+        },
+
+        {
+            "site": "instagram.com",
+            "login": "RCMlx7El/ajwCg==",
+            "password": "eyU2y7Elpf/8CiZK+Fw="
+        },
+
+        {
+            "site": "mail.ru",
+            "login": "eyU2y7Elpf+EbkA=",
+            "password": "eyU2y7Elpf/8CiZK+Fw="
+        }
+    ]
+}
