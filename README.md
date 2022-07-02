@@ -10,6 +10,7 @@
 ![image](https://user-images.githubusercontent.com/48617052/177002378-659849e3-9d01-4678-a152-47818f6283b9.png)
  
 После входа отображаются плитки с числами
+
 ![image](https://user-images.githubusercontent.com/48617052/177002388-07127f3c-2188-4000-9399-2ee4d2d58a3f.png)
 
 При нажатии на планки, они скрываются. 
